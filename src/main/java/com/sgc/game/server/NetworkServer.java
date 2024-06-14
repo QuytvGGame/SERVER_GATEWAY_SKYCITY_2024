@@ -38,18 +38,6 @@ import config.Config;
 public class NetworkServer implements Runnable {
 	private static final Log log = LogFactory.getLog("");
 	public static final String DB_CONGGAME = "DB_CONGGAME";
-	public static final String DB_GGAME_BONGDA = "GGAME_BONGDA";
-	
-	public static final String DB_THANH_CHIEN = "THANHCHIEN";
-	public static final String DB_THANH_CHIEN_ACCOUNT = "THANHCHIEN_ACCOUNT";
-	public static final String DB_THANH_CHIEN_REPORT = "THANHCHIEN_REPORT";
-	
-	public static final String DB_BABYLON = "BABYLON";
-	public static final String DB_BABYLON_REPORT = "BABYLON_REPORT";
-
-	public static final String DB_COTUONG = "COTUONG";
-	public static final String DB_COTUONG_ACCOUNT = "COTUONG_ACCOUNT";
-	public static final String DB_COTUONG_REPORT = "COTUONG_REPORT";
 	public static boolean MAINTERNANT = false;
 
 	public static int GAME_ID = 1;
@@ -237,9 +225,6 @@ public class NetworkServer implements Runnable {
 										break;
 									case "reloadIpLogin":
 										DatabaseAccount.loadIpLogin();
-										break;
-									case "updateIpPlayer":
-										DatabaseAccount.updateIPPlayerBabylon();
 										break;
 									}
 								}

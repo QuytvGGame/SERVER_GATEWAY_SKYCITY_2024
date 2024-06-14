@@ -173,20 +173,6 @@ public class DatabaseAccount {
 			pstmt.executeUpdate();
 			insertEmail(user.getEmail());
 			System.out.println("-------finish insertUser DatabaseAccount User new Cache-----" + user.toJson());
-
-			try {
-				int gameId = Integer.parseInt(user.getGameId());
-				if (gameId == GameId.THANH_CHIEN) {
-					insertUserThanhChien(user);
-				} else if (gameId == GameId.BABYLON) {
-					insertUserBabylon(user);
-				} else if (gameId == GameId.CO_TUONG) {
-					insertUserCoTuong(user);
-				}
-			} catch (Exception e) {
-				logToFile(e);
-			}
-
 		} catch (Exception e) {
 			logToFile(e);
 			return null;
@@ -214,9 +200,6 @@ public class DatabaseAccount {
 
 			try {
 				int gameId = Integer.parseInt(gameIdStr);
-				if (gameId == GameId.THANH_CHIEN) {
-					updateIpUserThanhChien(username, ip);
-				}
 			} catch (Exception e) {
 				logToFile(e);
 			}
@@ -243,175 +226,6 @@ public class DatabaseAccount {
 			pstmt.executeUpdate();
 			System.out.println("-------finish updateAccountPlayNow DatabaseAccount ---- username = " + username
 					+ ", username2 = " + username2 + ", password2 = " + password2);
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
-	public static void insertUserThanhChien(User user) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_THANH_CHIEN_ACCOUNT);
-			String sSQL = "INSERT INTO users (user_id, user_name, pass_word, platform, type, reg_phone, ime, ip, active, lock_status, token, email, provider_id, time_reg) values(?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setLong(1, user.getUserId());
-			pstmt.setString(2, user.getUserName());
-			pstmt.setString(3, user.getPassWord());
-			pstmt.setInt(4, user.getPlatform());
-			pstmt.setInt(5, user.getType());
-			pstmt.setString(6, user.getRegPhone());
-			pstmt.setString(7, user.getIme());
-			pstmt.setString(8, user.getIp());
-			pstmt.setInt(9, user.getActive());
-			pstmt.setInt(10, user.getLockStatus());
-			pstmt.setString(11, user.getKeyHash());
-			pstmt.setString(12, user.getEmail());
-			pstmt.setInt(13, user.getProviderId());
-			pstmt.setTimestamp(14, getDateTime());
-			pstmt.executeUpdate();
-			System.out
-					.println("-------finish insertUserThanhChien DatabaseAccount User new Cache-----" + user.toJson());
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
-	public static void updateDataThanhChien(String user_name, String ip, int provider, String imei, String email) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_THANH_CHIEN_REPORT);
-			String sSQL = "UPDATE player SET provider=?, ip=?, imei=?, email=? where user_name=?";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setInt(1, provider);
-			pstmt.setString(2, ip);
-			pstmt.setString(3, imei);
-			pstmt.setString(4, imei);
-			pstmt.setString(5, user_name);
-			pstmt.executeUpdate();
-			System.out.println("-------finish updateDataThanhChien DatabaseAccount ---- user_name = " + user_name
-					+ ", ip = " + ip);
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
-	public static void insertUserBabylon(User user) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_BABYLON_REPORT);
-			String sSQL = "INSERT INTO users (user_id, user_name, pass_word, platform, type, reg_phone, ime, ip, active, lock_status, token, email, provider_id, time_reg) values(?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setLong(1, user.getUserId());
-			pstmt.setString(2, user.getUserName());
-			pstmt.setString(3, user.getPassWord());
-			pstmt.setInt(4, user.getPlatform());
-			pstmt.setInt(5, user.getType());
-			pstmt.setString(6, user.getRegPhone());
-			pstmt.setString(7, user.getIme());
-			pstmt.setString(8, user.getIp());
-			pstmt.setInt(9, user.getActive());
-			pstmt.setInt(10, user.getLockStatus());
-			pstmt.setString(11, user.getKeyHash());
-			pstmt.setString(12, user.getEmail());
-			pstmt.setInt(13, user.getProviderId());
-			pstmt.setTimestamp(14, getDateTime());
-			pstmt.executeUpdate();
-			System.out.println("-------finish insertUserBabylon DatabaseAccount User new Cache-----" + user.toJson());
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
-	public static void insertUserCoTuong(User user) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_COTUONG_REPORT);
-			String sSQL = "INSERT INTO users (user_id, user_name, pass_word, platform, type, reg_phone, ime, ip, active, lock_status, token, email, provider_id, time_reg) values(?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setLong(1, user.getUserId());
-			pstmt.setString(2, user.getUserName());
-			pstmt.setString(3, user.getPassWord());
-			pstmt.setInt(4, user.getPlatform());
-			pstmt.setInt(5, user.getType());
-			pstmt.setString(6, user.getRegPhone());
-			pstmt.setString(7, user.getIme());
-			pstmt.setString(8, user.getIp());
-			pstmt.setInt(9, user.getActive());
-			pstmt.setInt(10, user.getLockStatus());
-			pstmt.setString(11, user.getKeyHash());
-			pstmt.setString(12, user.getEmail());
-			pstmt.setInt(13, user.getProviderId());
-			pstmt.setTimestamp(14, getDateTime());
-			pstmt.executeUpdate();
-			System.out.println("-------finish insertUser Cờ Tướng DatabaseAccount User new Cache-----" + user.toJson());
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
-//	public static void updateDataThanhChien(String user_name, int providerId) {
-//		PreparedStatement pstmt = null;
-//		Connection conn = null;
-//		ResultSet rs = null;
-//		try {
-//			conn = AppServer.getConnection(NetworkServer.DB_THANH_CHIEN_REPORT);
-//			String sSQL = "UPDATE player SET provider=? where user_name=?";
-//			pstmt = conn.prepareStatement(sSQL);
-//			pstmt.setInt(1, providerId);
-//			pstmt.setString(2, user_name);
-//			pstmt.executeUpdate();
-//			System.out.println("-------finish updateDataThanhChien DatabaseAccount ---- user_name = " + user_name
-//					+ ", providerId = " + providerId);
-//		} catch (Exception e) {
-//			logToFile(e);
-//		} finally {
-//			Database.closeObject(rs);
-//			Database.closeObject(pstmt);
-//			Database.closeObject(conn);
-//		}
-//	}
-
-	public static void updateIpUserThanhChien(String user_name, String ip) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_THANH_CHIEN_ACCOUNT);
-			String sSQL = "update users set ip = ? where user_name = ?";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setNString(1, user_name);
-			pstmt.setString(2, ip);
-			pstmt.executeUpdate();
-			System.out.println("-------finish updateIpUserThanhChien DatabaseAccount ---- user_name = " + user_name
-					+ ", ip = " + ip);
 		} catch (Exception e) {
 			logToFile(e);
 		} finally {
@@ -947,55 +761,6 @@ public class DatabaseAccount {
 		}
 	}
 
-	public static void insertAddMoney(AddMoneyRequest data) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		GiftItemThanhChien gift = null;
-		String giftString = T.Empty;
-		String db = "";
-		JSONArray array = new JSONArray();
-		if (data.gameId == GameId.BONG_DA) {
-			db = NetworkServer.DB_GGAME_BONGDA + data.serverId;
-			gift = new GiftItemThanhChien(1, 1, data.addmoney);
-			array.put(gift.toJson());
-			giftString = array.toString();
-		} else if (data.gameId == GameId.THANH_CHIEN) {
-			db = NetworkServer.DB_THANH_CHIEN + data.serverId;
-			gift = new GiftItemThanhChien(188, 188, data.addmoney);
-			array.put(gift.toJson());
-			giftString = array.toString();
-		} else if (data.gameId == GameId.BABYLON) {
-			db = NetworkServer.DB_BABYLON + data.serverId;
-			giftString = "2-" + data.addmoney;
-		}
-
-		AgentGame.logTest("--- DatabaseAccount --- insertAddMoney --- db = " + db + ", serverId = " + data.serverId);
-		try {
-			conn = AppServer.getConnection(db);
-			String sSQL = "INSERT INTO admin_add_items (list_user_id, list_items, title, content, sender, typeSpecial, isRecharge, providerId,"
-					+ " status, idGoi, reChange) values(?,?,?,?,?,?,?,?,?,?,?)";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setLong(1, data.userId);
-			pstmt.setString(2, giftString);
-			pstmt.setString(3, data.title);
-			pstmt.setString(4, data.content);
-			pstmt.setString(5, data.sender);
-			pstmt.setInt(6, data.typeSpecial);
-			pstmt.setInt(7, T.ONE); // 1: nạp tiền từ cổng, 0: cộng đồ
-			pstmt.setString(8, data.productId);
-			pstmt.setInt(9, data.status); // 1: nạp test, 2: nạp thường
-			pstmt.setInt(10, data.idGoi);
-			pstmt.setInt(11, data.reChange);
-			pstmt.executeUpdate();
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
 
 	public static void updateThongBaoConfig(int gameId, String thongBao) {
 		PreparedStatement pstmt = null;
@@ -1090,94 +855,7 @@ public class DatabaseAccount {
 			Database.closeObject(conn);
 		}
 	}
-
-	public static void updateIPPlayerBabylon() {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_BABYLON_REPORT);
-			String sSQL = "SELECT * FROM player";
-			pstmt = conn.prepareStatement(sSQL);
-			rs = pstmt.executeQuery();
-			Map<Long, DataPlayerUpdateTest> mapUpdate = new HashMap<Long, DataPlayerUpdateTest>();
-			int size = 0;
-			int sizeUser = 0;
-
-			while (rs.next()) {
-				size++;
-				String user_name = rs.getString("user_name");
-				Long user_id = rs.getLong("user_id");
-				User user = PlayerManager.getInstance().getUsersByUserName(user_name);
-				if (user != null) {
-					sizeUser++;
-					DataPlayerUpdateTest dataUpdate = new DataPlayerUpdateTest(user_id, user.getIp(), user.getIme());
-					mapUpdate.put(user_id, dataUpdate);
-				}
-			}
-
-			System.out.println("------ DatabaseAccount --------- SIZE = " + size + ", mapUpdate SIZE = "
-					+ mapUpdate.size() + ", sizeUser SIZE = " + sizeUser);
-			if (mapUpdate.size() > 0) {
-				updateIPPlayerBabylon(mapUpdate);
-			}
-		} catch (Exception e) {
-			e.printStackTrace();
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
-	public static void updateIPPlayerBabylon(Map<Long, DataPlayerUpdateTest> mapUpdate) {
-		Connection connection = null;
-		PreparedStatement pstmt = null;
-		try {
-			connection = AppServer.getConnection(NetworkServer.DB_BABYLON_REPORT);
-			String sSQL = "UPDATE player SET ip = ?, imei=? where user_id = ?";
-			pstmt = connection.prepareStatement(sSQL);
-			for (DataPlayerUpdateTest data : mapUpdate.values()) {
-				pstmt.setString(1, data.getIp());
-				pstmt.setString(2, data.getImei());
-				pstmt.setLong(3, data.getUserId());
-				pstmt.addBatch();
-			}
-
-			int result[] = pstmt.executeBatch();
-			System.out.println("------ DatabaseAccount ------ FINISH UpdatePlayer REPORT --- SIZE = " + result.length);
-		} catch (Exception e) {
-			e.printStackTrace();
-			logToFile(StringUtil.stackTrace(e), NetworkServer.PATH_EXCEPTION);
-		} finally {
-			mapUpdate.clear();
-			Database.closeObject(pstmt);
-			Database.closeObject(connection);
-		}
-	}
-
-	public static void updateIp(String userName, String ip, String imei) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_BABYLON_REPORT);
-			String sSQL = "update player SET ip = ?, imei=? where user_name = ?";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setString(1, ip);
-			pstmt.setString(2, imei);
-			pstmt.setString(3, userName);
-			pstmt.executeUpdate();
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
+	
 	public static void loadEmail() {
 		PreparedStatement pstmt = null;
 		Connection conn = null;
@@ -1395,37 +1073,6 @@ public class DatabaseAccount {
 			pstmt.executeUpdate();
 			System.out.println("-------finish insertGiftCodeData DatabaseAccount ---- user_id = " + data.getUser_id()
 					+ ", giftCode = " + data.getGiftcode());
-
-			int gameId = Integer.parseInt(data.getGame_id());
-			if (gameId == GameId.THANH_CHIEN) {
-				insertGiftCodeDataServerGame(data);
-			}
-		} catch (Exception e) {
-			logToFile(e);
-		} finally {
-			Database.closeObject(rs);
-			Database.closeObject(pstmt);
-			Database.closeObject(conn);
-		}
-	}
-
-	public static void insertGiftCodeDataServerGame(GiftCodeData data) {
-		PreparedStatement pstmt = null;
-		Connection conn = null;
-		ResultSet rs = null;
-		try {
-			conn = AppServer.getConnection(NetworkServer.DB_THANH_CHIEN_ACCOUNT);
-			String sSQL = "INSERT INTO giftcode_data (user_id, server_id, game_id, typegiftcode, namegiftcode, giftcode) values(?,?,?,?,?,?)";
-			pstmt = conn.prepareStatement(sSQL);
-			pstmt.setLong(1, data.getUser_id());
-			pstmt.setInt(2, data.getServer_id());
-			pstmt.setString(3, data.getGame_id());
-			pstmt.setInt(4, data.getTypegiftcode());
-			pstmt.setNString(5, data.getNamegiftcode());
-			pstmt.setString(6, data.getGiftcode());
-			pstmt.executeUpdate();
-			System.out.println("-------finish insertGiftCodeDataServerGame DatabaseAccount ---- user_id = "
-					+ data.getUser_id() + ", giftCode = " + data.getGiftcode());
 		} catch (Exception e) {
 			logToFile(e);
 		} finally {

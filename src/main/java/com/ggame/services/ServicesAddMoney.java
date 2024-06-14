@@ -44,7 +44,7 @@ public class ServicesAddMoney implements HttpHandler {
 					Map<Long, ServerPlayerData> data = GameManager.getInstance().mapServerPlayerData
 							.get(addMoney.username);
 					if (data.containsKey(addMoney.userId)) {
-						DatabaseAccount.insertAddMoney(addMoney);
+				//		DatabaseAccount.insertAddMoney(addMoney);
 						message.setErrorCode(ErrorServices.SUCCESS);
 						message.setMessage("Thành công");
 					} else {
