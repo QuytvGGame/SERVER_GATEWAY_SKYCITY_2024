@@ -1,0 +1,67 @@
+AuthenticationCacheDuration==7200
+DateFormat==dd/MM/yyyy
+TimeZone
+	Offset==25200000
+	Description==Viet Nam/Ha Noi
+DefaultDatabase==DB_CASINO
+Connection
+	DB_CASINO
+		DriverClass==com.mysql.jdbc.Driver
+		Url==jdbc:mysql://localhost:33060/ggame_bongda2?autoReconnect=true
+		UserName==admin
+		Password==A123456a@
+		MaxActive==5
+		MaxIdle==5
+		MinIdle==4
+		MaxWait==3600
+		QueryTest==SELECT 1
+	DB_LOGS
+		DriverClass==com.mysql.jdbc.Driver
+		Url==jdbc:mysql://localhost:33060/ggame_bongda2_logs?autoReconnect=true
+		UserName==admin
+		Password==A123456a@
+		MaxActive==5000
+		MaxIdle==50
+		MinIdle==40
+		MaxWait==3600
+		QueryTest==SELECT 1
+	DB_ACCOUNT
+		DriverClass==com.mysql.jdbc.Driver
+		Url==jdbc:mysql://localhost:33060/ggame_bongda_account?autoReconnect=true
+		UserName==admin
+		Password==A123456a@
+		MaxActive==5
+		MaxIdle==5
+		MinIdle==4
+		MaxWait==3600
+		QueryTest==SELECT 1
+	DB_GateWay
+		DriverClass==com.mysql.jdbc.Driver
+		Url==jdbc:mysql://localhost:33060/ggame_bongda_charging_gateway?autoReconnect=true
+		UserName==admin
+		Password==A123456a@
+		MaxActive==5
+		MaxIdle==5
+		MinIdle==4
+		MaxWait==3600
+		QueryTest==SELECT 1
+Server
+	IP==149.28.152.90
+	Port==4369
+	NapPort==5099
+	Log==/
+	WebPort==2869
+	WebPortSSL==4326
+	TcpPort==4325  
+	Matchlog==match_log
+	Moneylog==money_log
+	GetGiftlog==get_gift_log
+	Errorlog==error_log
+	Smslog==sms_log
+	TblException==tblexception
+	Exception==exception
+	ImagePath==E:/WorkSpace/vn.server.skycity.vmg/img/
+Version
+	Number==200
+	LinkUpdate==http://myzone.vn/app/vuabai
+# UpdateType =0: cap nhat thong thuong, UpdateType =1 bat buoc cap nhat;

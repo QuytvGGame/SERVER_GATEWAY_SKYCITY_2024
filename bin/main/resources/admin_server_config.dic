@@ -1,0 +1,47 @@
+AuthenticationCacheDuration==7200
+DateFormat==dd/MM/yyyy
+TimeZone
+	Offset==25200000
+	Description==Viet Nam/Ha Noi
+DefaultDatabase==DB_GAME
+Connection
+	DB_GAME
+		DriverClass==com.mysql.jdbc.Driver
+		Url==jdbc:mysql://localhost:3306/chienthuatmoi?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+		UserName==root
+		Password==123456a@
+		MaxActive==5
+		MaxIdle==5
+		MinIdle==4
+		MaxWait==3600
+		QueryTest==SELECT 1
+	DB_LOGS
+		DriverClass==com.mysql.jdbc.Driver
+		Url==jdbc:mysql://localhost:3306/chienthuatmoi_logs?autoReconnect=true&useUnicode=true&characterEncoding=UTF-8
+		UserName==root
+		Password==123456a@
+		MaxActive==5
+		MaxIdle==5
+		MinIdle==4
+		MaxWait==3600
+		QueryTest==SELECT 1
+Server
+	IP==192.168.0.104
+	Port==4468
+	NapPort==5098
+	Log==/
+	WebPort==2868
+	WebPortSSL==4325
+	TcpPort==4324  
+	Matchlog==match_log
+	Moneylog==money_log
+	GetGiftlog==get_gift_log
+	Errorlog==error_log
+	Smslog==sms_log
+	TblException==tblexception
+	Exception==exception
+	ImagePath==E:/WorkSpace/vn.server.skycity.vmg/img/
+Version
+	Number==200
+	LinkUpdate==http://myzone.vn/app/vuabai
+# UpdateType =0: cap nhat thong thuong, UpdateType =1 bat buoc cap nhat;

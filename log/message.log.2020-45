@@ -1,0 +1,1813 @@
+[11:01 23 Oct][Thread-0] INFO    ---- *********Server Chien Thua Moi Mobile*********
+[11:01 23 Oct][Thread-0] INFO  com.galaxy.framework.dictionary.Dictionary  ---- Load dictionary  from file :admin_server_config.dic
+[11:01 23 Oct][pool-1-thread-1] INFO    ---- Running AutoSchedulerThread !    pool-1-thread-1
+[11:01 23 Oct][pool-1-thread-2] INFO    ---- Running SessionMonitorThread !    pool-1-thread-2
+[11:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[11:01 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !    pool-1-thread-3
+[11:01 23 Oct][pool-1-thread-4] INFO    ---- Running Update Thread !    pool-1-thread-4
+[11:01 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:01 23 Oct][pool-1-thread-5] INFO    ---- Running Update Thread !    pool-1-thread-5
+[11:01 23 Oct][pool-1-thread-6] INFO    ---- Running System AddMoney Thread !    pool-1-thread-6
+[11:01 23 Oct][pool-1-thread-7] INFO    ---- Running Event Thread !    pool-1-thread-7
+[11:01 23 Oct][pool-1-thread-8] INFO    ---- Running Event Thread !    pool-1-thread-8
+[11:01 23 Oct][pool-1-thread-9] INFO    ---- Running Save Thread !    pool-1-thread-9
+[11:01 23 Oct][pool-1-thread-10] INFO    ---- Running Save Thread !    pool-1-thread-10
+[11:01 23 Oct][pool-1-thread-11] INFO    ---- Running get list get gift success !    pool-1-thread-11
+[11:01 23 Oct][pool-1-thread-12] INFO    ---- Running Get Top Thread !    pool-1-thread-12
+[11:01 23 Oct][pool-1-thread-13] INFO    ---- Running Clone Player Online !    pool-1-thread-13
+[11:01 23 Oct][pool-1-thread-14] INFO    ---- Running Save Thread ! pool-1-thread-14
+[11:01 23 Oct][pool-1-thread-15] INFO    ---- Running Get LockChatAll Thread !    pool-1-thread-15
+[11:01 23 Oct][pool-1-thread-16] INFO    ---- Running get list get gift success !    pool-1-thread-16
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:02 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:02 23 Oct][pool-1-thread-17] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:03 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:03 23 Oct][pool-1-thread-18] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:04 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:04 23 Oct][pool-1-thread-19] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:05 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:05 23 Oct][pool-1-thread-20] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:06 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:06 23 Oct][pool-1-thread-21] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:07 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:07 23 Oct][pool-1-thread-22] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:08 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:08 23 Oct][pool-1-thread-23] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:09 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:09 23 Oct][pool-1-thread-24] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:10 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:10 23 Oct][pool-1-thread-25] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:11 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:11 23 Oct][pool-1-thread-26] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:12 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:12 23 Oct][pool-1-thread-27] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:13 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:13 23 Oct][pool-1-thread-28] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:14 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:14 23 Oct][pool-1-thread-29] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:15 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:15 23 Oct][pool-1-thread-30] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:16 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:16 23 Oct][pool-1-thread-31] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[11:17 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:17 23 Oct][pool-1-thread-32] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:18 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:18 23 Oct][pool-1-thread-33] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[11:19 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:19 23 Oct][pool-1-thread-34] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:20 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:20 23 Oct][pool-1-thread-35] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:21 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:21 23 Oct][pool-1-thread-36] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:22 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:22 23 Oct][pool-1-thread-37] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[11:23 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:23 23 Oct][pool-1-thread-38] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[11:24 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:24 23 Oct][pool-1-thread-39] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[11:25 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:25 23 Oct][pool-1-thread-40] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[11:26 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:26 23 Oct][pool-1-thread-41] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:27 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:27 23 Oct][pool-1-thread-42] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[11:28 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:28 23 Oct][pool-1-thread-43] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:29 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:29 23 Oct][pool-1-thread-44] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[11:30 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:30 23 Oct][pool-1-thread-45] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:31 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:31 23 Oct][pool-1-thread-46] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:32 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:32 23 Oct][pool-1-thread-47] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[11:33 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:33 23 Oct][pool-1-thread-48] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:34 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:34 23 Oct][pool-1-thread-49] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[11:35 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:35 23 Oct][pool-1-thread-50] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:36 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:36 23 Oct][pool-1-thread-51] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[11:37 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:37 23 Oct][pool-1-thread-52] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[11:38 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:38 23 Oct][pool-1-thread-53] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[11:39 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:39 23 Oct][pool-1-thread-54] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:40 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:40 23 Oct][pool-1-thread-55] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:41 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:41 23 Oct][pool-1-thread-56] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[11:42 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:42 23 Oct][pool-1-thread-57] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:43 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:43 23 Oct][pool-1-thread-58] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:44 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:44 23 Oct][pool-1-thread-59] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:45 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:45 23 Oct][pool-1-thread-60] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:46 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:46 23 Oct][pool-1-thread-61] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:47 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:47 23 Oct][pool-1-thread-62] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:48 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:48 23 Oct][pool-1-thread-63] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[11:49 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:49 23 Oct][pool-1-thread-64] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:50 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:50 23 Oct][pool-1-thread-65] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:51 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:51 23 Oct][pool-1-thread-66] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[11:52 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:52 23 Oct][pool-1-thread-67] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:53 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:53 23 Oct][pool-1-thread-68] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[11:54 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:54 23 Oct][pool-1-thread-69] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:55 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:55 23 Oct][pool-1-thread-70] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:56 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:56 23 Oct][pool-1-thread-71] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:57 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:57 23 Oct][pool-1-thread-72] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:58 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:58 23 Oct][pool-1-thread-73] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[11:59 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[11:59 23 Oct][pool-1-thread-74] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[12:00 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:00 23 Oct][pool-1-thread-75] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:01 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:01 23 Oct][pool-1-thread-76] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:02 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:02 23 Oct][pool-1-thread-77] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:03 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:03 23 Oct][pool-1-thread-78] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:04 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:04 23 Oct][pool-1-thread-79] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:05 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:05 23 Oct][pool-1-thread-80] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:100/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:06 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:06 23 Oct][pool-1-thread-81] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:07 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:07 23 Oct][pool-1-thread-82] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:99/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:08 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:08 23 Oct][pool-1-thread-83] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:09 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:09 23 Oct][pool-1-thread-84] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:10 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:10 23 Oct][pool-1-thread-85] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:98/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:11 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:11 23 Oct][pool-1-thread-86] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:97/123/1820. Sessions:0 Player 0
+[12:12 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:12 23 Oct][pool-1-thread-87] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:13 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:13 23 Oct][pool-1-thread-88] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:14 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:96/123/1820. Sessions:0 Player 0
+[12:14 23 Oct][pool-1-thread-89] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:15 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:15 23 Oct][pool-1-thread-90] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:95/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:16 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:16 23 Oct][pool-1-thread-91] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:17 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:17 23 Oct][pool-1-thread-92] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:94/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:18 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:18 23 Oct][pool-1-thread-93] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:19 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:19 23 Oct][pool-1-thread-94] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:20 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:93/123/1820. Sessions:0 Player 0
+[12:20 23 Oct][pool-1-thread-95] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:21 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:21 23 Oct][pool-1-thread-96] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:22 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:92/123/1820. Sessions:0 Player 0
+[12:22 23 Oct][pool-1-thread-97] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:23 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:23 23 Oct][pool-1-thread-98] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:91/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:24 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:24 23 Oct][pool-1-thread-99] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:25 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:25 23 Oct][pool-1-thread-100] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:26 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:90/123/1820. Sessions:0 Player 0
+[12:26 23 Oct][pool-1-thread-101] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:27 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:27 23 Oct][pool-1-thread-102] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:89/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:28 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:28 23 Oct][pool-1-thread-103] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:29 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:29 23 Oct][pool-1-thread-104] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:88/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:30 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:30 23 Oct][pool-1-thread-105] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:31 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:31 23 Oct][pool-1-thread-106] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:87/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:32 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:32 23 Oct][pool-1-thread-107] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:33 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:33 23 Oct][pool-1-thread-108] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:86/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:34 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:34 23 Oct][pool-1-thread-109] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:35 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:35 23 Oct][pool-1-thread-110] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:36 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:85/123/1820. Sessions:0 Player 0
+[12:36 23 Oct][pool-1-thread-111] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:37 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:37 23 Oct][pool-1-thread-112] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:38 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:38 23 Oct][pool-1-thread-113] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:84/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:83/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:39 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[12:39 23 Oct][pool-1-thread-114] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:115/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:40 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:40 23 Oct][pool-1-thread-115] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:114/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:41 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:41 23 Oct][pool-1-thread-116] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:42 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:42 23 Oct][pool-1-thread-117] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:113/123/1820. Sessions:0 Player 0
+[12:43 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:43 23 Oct][pool-1-thread-118] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============11
+[12:43 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:44 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:44 23 Oct][pool-1-thread-119] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:44 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:45 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:45 23 Oct][pool-1-thread-120] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:45 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:112/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:46 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:46 23 Oct][pool-1-thread-121] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:46 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:47 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:47 23 Oct][pool-1-thread-122] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:47 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:111/123/1820. Sessions:0 Player 0
+[12:48 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:48 23 Oct][pool-1-thread-123] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:48 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:49 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:49 23 Oct][pool-1-thread-124] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:49 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:110/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:50 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:50 23 Oct][pool-1-thread-125] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:50 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:51 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:51 23 Oct][pool-1-thread-126] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:109/123/1820. Sessions:0 Player 0
+[12:52 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:52 23 Oct][pool-1-thread-127] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:53 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:53 23 Oct][pool-1-thread-128] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:54 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:54 23 Oct][pool-1-thread-129] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:108/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:55 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:55 23 Oct][pool-1-thread-130] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:107/123/1820. Sessions:0 Player 0
+[12:56 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:56 23 Oct][pool-1-thread-131] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:57 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:57 23 Oct][pool-1-thread-132] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:106/123/1820. Sessions:0 Player 0
+[12:58 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:58 23 Oct][pool-1-thread-133] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[12:59 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[12:59 23 Oct][pool-1-thread-134] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:00 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:00 23 Oct][pool-1-thread-135] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:105/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:01 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:01 23 Oct][pool-1-thread-136] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:104/123/1820. Sessions:0 Player 0
+[01:02 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:02 23 Oct][pool-1-thread-137] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:03 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:03 23 Oct][pool-1-thread-138] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:04 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:04 23 Oct][pool-1-thread-139] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:103/123/1820. Sessions:0 Player 0
+[01:05 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:05 23 Oct][pool-1-thread-140] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:102/123/1820. Sessions:0 Player 0
+[01:06 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:06 23 Oct][pool-1-thread-141] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:07 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:07 23 Oct][pool-1-thread-142] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:08 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[01:08 23 Oct][pool-1-thread-143] INFO  com.sgc.game.database.DatabaseLogs  ---- ============save CcuLogs success=============12
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-2] INFO    ---- ChienThuatMoi: Memmory:101/123/1820. Sessions:0 Player 0
+[01:09 23 Oct][pool-1-thread-3] INFO    ---- Running AdminMonitorThread !
+[02:53 23 Oct][Thread-0] INFO    ---- *********Server Chien Thua Moi Mobile*********
+[02:53 23 Oct][Thread-0] INFO  com.galaxy.framework.dictionary.Dictionary  ---- Load dictionary  from file :admin_server_config.dic
+[11:13 07 Nov][Thread-0] INFO    ---- *********Server Tran Vuong Truyen Ky Mobile*********
+[11:13 07 Nov][Thread-0] INFO  com.galaxy.framework.dictionary.Dictionary  ---- Load dictionary  from file :admin_server_config.dic

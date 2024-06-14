@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: TK
+Build-Jdk: 17.0.8
+Implementation-Title: chienthuatmoi
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: Server
+Main-Class: com.sgc.game.network.websocket.SocketsSpringApplication
+Created-By: Maven Integration for Eclipse
+
