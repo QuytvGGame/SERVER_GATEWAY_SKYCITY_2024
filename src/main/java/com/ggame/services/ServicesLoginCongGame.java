@@ -32,6 +32,7 @@ import com.sgc.game.network.websocket.Http;
 import com.sgc.game.server.GameManager;
 import com.sgc.game.server.LogsManager;
 import com.sgc.game.server.PlayerManager;
+import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
@@ -42,6 +43,12 @@ public class ServicesLoginCongGame implements HttpHandler {
 	@Override
 	public void handle(HttpExchange he) throws IOException {
 		// TODO Auto-generated method stub
+		
+		Headers headers = he.getResponseHeaders();
+		headers.add("Access-Control-Allow-Origin", "*");
+		headers.add("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
+		headers.add("Access-Control-Allow-Headers", "Content-Type, Authorization");
+
 		StringBuilder str = new StringBuilder();
 		InputStreamReader isr = new InputStreamReader(he.getRequestBody(), "UTF-8");
 		BufferedReader br = new BufferedReader(isr);
